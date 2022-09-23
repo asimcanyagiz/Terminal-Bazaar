@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		ABB3050D28DE24E700CE0E54 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3050C28DE24E700CE0E54 /* main.swift */; };
+		ABB3051528DE279F00CE0E54 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3051428DE279F00CE0E54 /* User.swift */; };
+		ABB3051C28DE48BB00CE0E54 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB3051B28DE48BB00CE0E54 /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		ABB3050928DE24E700CE0E54 /* iOS-Bootcamp-Week1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "iOS-Bootcamp-Week1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABB3050C28DE24E700CE0E54 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		ABB3051428DE279F00CE0E54 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		ABB3051B28DE48BB00CE0E54 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,27 @@
 		ABB3050B28DE24E700CE0E54 /* iOS-Bootcamp-Week1 */ = {
 			isa = PBXGroup;
 			children = (
-				ABB3050C28DE24E700CE0E54 /* main.swift */,
+				ABB3051628DE27A500CE0E54 /* Model */,
+				ABB3051328DE279100CE0E54 /* Controller */,
 			);
 			path = "iOS-Bootcamp-Week1";
+			sourceTree = "<group>";
+		};
+		ABB3051328DE279100CE0E54 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				ABB3050C28DE24E700CE0E54 /* main.swift */,
+				ABB3051B28DE48BB00CE0E54 /* Functions.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		ABB3051628DE27A500CE0E54 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ABB3051428DE279F00CE0E54 /* User.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +142,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABB3051528DE279F00CE0E54 /* User.swift in Sources */,
 				ABB3050D28DE24E700CE0E54 /* main.swift in Sources */,
+				ABB3051C28DE48BB00CE0E54 /* Functions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
