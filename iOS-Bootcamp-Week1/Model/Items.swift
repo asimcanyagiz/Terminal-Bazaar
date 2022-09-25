@@ -18,7 +18,7 @@ struct Items {
     HP:0 DP:40
       1:SWORD
 """,
-                pruductSpecial: "warrior",
+                productSpecial: "Warrior",
                 productCost: 33,
                 productHp: 0,
                 productDp: 40),
@@ -31,7 +31,7 @@ struct Items {
                                 HP:0 DP:20
                                    2:BOW
 """,
-                pruductSpecial: "Archer",
+                productSpecial: "Archer",
                 productCost: 29,
                 productHp: 0,
                 productDp: 20),
@@ -44,7 +44,7 @@ struct Items {
                                                     HP:0 DP:80
                                                         3:AXE
 """,
-                pruductSpecial: "berserk",
+                productSpecial: "Berserk",
                 productCost: 70,
                 productHp: 0,
                 productDp: 80)
@@ -64,7 +64,7 @@ struct Items {
       HP:10 DP:10
     1:Shield of Man
 """,
-                pruductSpecial: "warrior",
+                productSpecial: "Warrior",
                 productCost: 43,
                 productHp: 10,
                 productDp: 10),
@@ -83,7 +83,7 @@ struct Items {
                                 HP:60 DP:20
                             2:Shield of Kergit
 """,
-                pruductSpecial: "archer",
+                productSpecial: "Archer",
                 productCost: 33,
                 productHp: 60,
                 productDp: 20),
@@ -102,7 +102,7 @@ struct Items {
                                                         HP:5 DP:5
                                                      3:Shield of Giant
 """,
-                pruductSpecial: "berserk",
+                productSpecial: "Berserk",
                 productCost: 10,
                 productHp: 5,
                 productDp: 5)
@@ -123,7 +123,7 @@ struct Items {
         HP:0 DP:100
          1:DRAGON
 """,
-                pruductSpecial: "Fairy",
+                productSpecial: "Warrior",
                 productCost: 23,
                 productHp: 0,
                 productDp: 100),
@@ -139,7 +139,7 @@ struct Items {
                                 HP:100 DP:60
                                    2:GRYPHON
 """,
-                pruductSpecial: "Archer",
+                productSpecial: "Archer",
                 productCost: 37,
                 productHp: 100,
                 productDp: 60),
@@ -156,7 +156,7 @@ struct Items {
                                                                         HP:0 DP:65
                                                                         3:PHOENIX
 """,
-                pruductSpecial: "berserk",
+                productSpecial: "Berserk",
                 productCost: 19,
                 productHp: 0,
                 productDp: 65)
