@@ -66,7 +66,7 @@ You can [download](https://github.com/asimcanyagiz/iOS-Bootcamp-Week1) the lates
 
 ## Credits
 
-Furkan Sabaz - Udemy Swift Course
+Patika.dev - iOS Swift Pazarama Bootcamp
 
 ## You may also like...
 
