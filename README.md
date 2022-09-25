@@ -26,7 +26,7 @@
 * Gold mechanics. You can purchase your golds for buy items
 * Specially created Enemies and Items
 * Animations that makes boss fight in the flow!
-* Two player playable game
+* Boss Fight
   - ![iosBootcampTask1](https://user-images.githubusercontent.com/89473605/192157270-2acb110f-3358-49a1-b0b2-ae25075e5c7a.gif)
 * Cross platform
   - iOS, macOS ready.
